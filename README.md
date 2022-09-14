@@ -1,4 +1,4 @@
-[![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
+![MasterHead](https://animated-gif-creator.com/images/01/top-tools-to-improve-work-productivity-teksun_80.gif)
 
 <h1 align="center">Hi 👋, I'm Hrushikesh Gawade</h1>
 <h3 align="center">A passionate about Blockchain Technology from India</h3>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hrushigawade04" target="blank"><img src="https://img.shields.io/twitter/follow/hrushigawade04?logo=twitter&style=for-the-badge" alt="hrushigawade04" /></a> </p>
 
-- 🌱 I’m currently learning **Ethereum, Hyperledger Fabric, Solidity, React Native**
+- 🌱 I’m currently learning **Ethereum, Hyperledger Fabric, Solidity, DAO, Smart Contracts**
 
 - 💬 Ask me about **Blockchain Technology**
 
