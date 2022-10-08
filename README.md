@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/hrushigawade04" target="blank"><img src="https://img.shields.io/twitter/follow/hrushigawade04?logo=twitter&style=for-the-badge" alt="hrushigawade04" /></a> </p>
 
-- 🔭 I’m currently working on **Ethereum Smart Contracts**
+- 🔭 I’m currently working on **Ethereum building dapp**
 
-- 🌱 I’m currently learning **Ethereum,Web3 Technologies, Hyperledger Fabric**
+- 🌱 I’m currently learning **Web developement**
 
 - 💬 Ask me about **Solidity and Blockchain Technology**
 
