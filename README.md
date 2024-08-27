@@ -9,13 +9,13 @@
 
 **🚪 Welcome!**
 
-I'm Hrushikesh Gawade, a blockchain enthusiast with a passion for innovative 
+I'm Hrushikesh Gawade, a blockchain enthusiast passionate about innovative 
 technology. I'm excited to share my projects and ideas on GitHub.
 
 **🧑‍💼 About Me:**
 
 * 🐦 X: @[hrushi_gawade](https://x.com/hrushi_gawade)
-* 🔗 LinkedIn: @[hrushigawade4](https://www.linkedin.com/in/hrushigawade4/)
+
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
@@ -25,10 +25,9 @@ technology. I'm excited to share my projects and ideas on GitHub.
 
 I'm proficient in the following languages and tools:
 
-* Programming languages: [Javascript,Python,Solidity]
-* Blockchain platforms: [Ethereum, Hyperledger Fabric, Corda]
-* Tools: [Ganache, Truffle, 
-Web3.js]
+* Programming languages: [Javascript, Python, Solidity]
+* Blockchain platforms: [Ethereum, Hyperledger Fabric]
+
 
 **💻🐙 GitHub Profile:**
 
@@ -47,16 +46,16 @@ I'm currently working on the following projects:
 **🌐 Why I'm here:**
 
 As a blockchain enthusiast, I believe in the potential for decentralized 
-technology to transform industries and empower individuals. My goal is to 
+technology to transform industries and empower individuals. I aim to 
 collaborate with like-minded individuals, learn from others, and 
-contribute to the development of innovative solutions.
+contribute to developing innovative solutions.
 
 **📧 Get in touch:**
 
 If you'd like to discuss projects, share ideas, or just say hi, feel free 
 to reach out:
 
-[Email ID](mailto:hrushigawade4@gmail.com) | [X](https://x.com/hrushi_gawade) | [LinkedIn](https://www.linkedin.com/in/hrushigawade4/)
+[Email ID](mailto:hrushigawade4@gmail.com) | [X](https://x.com/hrushi_gawade) | 
 
 **🛠️✨🚀 Let's build something amazing!**
 
