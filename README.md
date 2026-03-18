@@ -164,7 +164,7 @@
   <a href="https://x.com/hrushi_gawade" target="_blank">
     <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/hrushikeshgawade" target="_blank">
+  <a href="https://www.linkedin.com/in/hrushigawade4/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:hrushigawade4@gmail.com" target="_blank">
