@@ -1,186 +1,104 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hrushikesh%20Gawade&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Blockchain%20Developer%20%7C%20Web3%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
-</div>
+# Hrushikesh Gawade — Blockchain Engineer
 
-<br/>
+**Hyperledger Fabric · Go Backend · Ethereum · Enterprise Web3**
 
-<div align="center">
-  <a href="https://x.com/hrushi_gawade">
-    <img src="https://img.shields.io/twitter/follow/hrushi_gawade?logo=twitter&style=for-the-badge&color=1DA1F2&labelColor=0d1117" alt="Twitter Follow"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=hrushigawade4&label=Profile%20Views&color=6e40c9&style=for-the-badge&labelColor=0d1117" alt="Profile Views"/>
-  <a href="mailto:hrushigawade4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-hrushigawade4-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/hrushigawade4/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter)](https://x.com/hrushi_gawade)
+[![Email](https://img.shields.io/badge/Email-hrushigawade4@gmail.com-EA4335?style=flat&logo=gmail)](mailto:hrushigawade4@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## Who I Am
 
-- 🔭 Building blockchain solutions with **Hyperledger Fabric** & **Ethereum**
-- 🛠️ Developing robust **REST APIs** with **Go** and **Node.js**
-- 🗄️ Working with **MongoDB** for scalable backend data management
-- 👯 Open to collaborate on **open source Web3 / backend projects**
-- 💬 Ask me about **Solidity · Chaincode · REST APIs · Microservices**
-- 📫 Reach me at **hrushigawade4@gmail.com**
-- ⚡ Fun fact: I believe **code is the new law** — blockchains just enforce it
+I'm a Blockchain Engineer specializing in **Hyperledger Fabric** and **Go-based backend systems**.
 
+My background is Mechanical Engineering — which gives me an unusual edge: I approach distributed systems design with the same rigour as physical systems engineering: failure modes, state transitions, and Byzantine fault tolerance aren't abstract concepts to me, they're design constraints.
+
+I build permissioned blockchain networks, write production chaincode in Go, and design REST APIs that integrate enterprise applications with on-chain data.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Stack
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Blockchain & Web3**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/Hyperledger%20Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
-
+| Domain | Technologies |
+|---|---|
+| **Blockchain (Primary)** | Hyperledger Fabric, Chaincode (Go), Fabric SDK, Private Data Collections |
+| **Ethereum / EVM** | Solidity, Hardhat, Web3.js, ERC-20/721, OpenZeppelin |
+| **Backend** | Go, Node.js, Express, REST APIs, Microservices |
+| **Data** | MongoDB, CouchDB (Fabric world state) |
+| **DevOps** | Docker, Docker Compose, Kubernetes, CI/CD, Linux |
+| **Languages** | Go, JavaScript, TypeScript, Solidity, Python |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">⛓️ Project Alpha</h3>
-      <p align="center">
-        <a href="https://github.com/hrushigawade4">
-          <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p>A decentralized application built on Ethereum. Features smart contract integration, wallet connectivity, and on-chain data management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat&logo=hardhat&logoColor=black"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🔗 Hyperledger DApp</h3>
-      <p align="center">
-        <a href="https://github.com/hrushigawade4">
-          <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p>Enterprise-grade blockchain solution on Hyperledger Fabric with chaincode logic for supply chain transparency and auditability.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💡 Smart Contract Suite</h3>
-      <p align="center">
-        <a href="https://github.com/hrushigawade4">
-          <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p>A library of reusable, gas-optimized Solidity smart contracts — including ERC-20/721 tokens, multisig wallets, and escrow systems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat&logo=openzeppelin&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🌐 Web3 Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/hrushigawade4">
-          <img src="https://img.shields.io/badge/View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-      </p>
-      <p>Personal developer portfolio showcasing blockchain projects, open-source contributions, and Web3 experiments with live demos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🔗 Hyperledger Fabric Supply Chain DApp
+> Enterprise-grade permissioned blockchain network for supply chain transparency and auditability.
+
+- Multi-org Fabric network bootstrapped with `cryptogen` and `configtxgen`
+- Chaincode written in **Go** handling asset lifecycle: create, transfer, query, audit
+- REST API layer in **Node.js** using Fabric Gateway SDK
+- Containerized with **Docker Compose** — one-command local deployment
+- World state queries using **CouchDB** rich JSON selectors
+
+**Stack:** Hyperledger Fabric · Go · Node.js · Docker · CouchDB
+
+[View Repository →](https://github.com/hrushigawade4)
 
 ---
 
-## 📊 GitHub Stats
+### ⛓️ Ethereum DApp — Smart Contract Suite
+> Production-ready Solidity contracts with gas optimization and formal test coverage.
 
-<div align="center">
+- ERC-20 token, ERC-721 NFT, multisig wallet, and escrow contracts
+- Gas-optimized patterns: storage packing, custom errors, events over state
+- Full test suite with **Hardhat** + edge case coverage
+- Deployed and verified on Sepolia testnet
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hrushigawade4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=ffffff&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrushigawade4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=ffffff&langs_count=6" height="165" alt="Top Languages"/>
+**Stack:** Solidity · Hardhat · OpenZeppelin · JavaScript
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrushigawade4&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=ffffff&sideLabels=ffffff&sideNums=6e40c9&currStreakNum=6e40c9&dates=888888" alt="GitHub Streak" width="60%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrushigawade4&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true" width="95%" alt="Activity Graph"/>
-</div>
+[View Repository →](https://github.com/hrushigawade4)
 
 ---
 
-## 🏆 Achievements
+### ⚙️ Go REST API Microservice
+> Lightweight, idiomatic Go API service with clean architecture and Docker deployment.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrushigawade4&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="Trophies"/>
-</div>
+- RESTful API with JWT authentication middleware
+- Repository pattern with MongoDB integration
+- Dockerfile + docker-compose for local and CI environments
+- Structured logging, error handling, and environment config
 
----
+**Stack:** Go · MongoDB · Docker · JWT
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-  <a href="https://x.com/hrushi_gawade" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hrushigawade4/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hrushigawade4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/hrushigawade4" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-</div>
+[View Repository →](https://github.com/hrushigawade4)
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&fontSize=16&fontColor=ffffff" width="100%"/>
-  <i>"Decentralizing the future, one block at a time."</i>
-  <br/><br/>
-  <b>⭐ Star my repos if you find them useful — it keeps me motivated!</b>
-</div>
+## What I'm Currently Building
+
+- A **Hyperledger Fabric** network with private data collections for multi-party data sharing
+- Exploring **Fabric Peer chaincode** external builders for Go chaincode hot-reload
+- Contributing to open-source Fabric tooling and documentation
+
+---
+
+## Open to
+
+- Hyperledger Fabric Developer roles (enterprise / permissioned blockchain)
+- Go Backend Engineer roles with Web3/blockchain focus
+- Blockchain Engineer roles across DeFi, supply chain, or identity verticals
+- Open-source collaboration on Fabric, Ethereum, or Go backend projects
+
+---
+
+## GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hrushigawade4&show_icons=true&theme=default&hide_border=true&title_color=2F3134&icon_color=2F3134&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hrushigawade4&layout=compact&theme=default&hide_border=true&langs_count=6)
+
+---
+
+*"Permissioned or permissionless — distributed systems need good engineers. I'm building toward that."*
