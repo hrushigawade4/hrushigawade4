@@ -78,9 +78,7 @@ I build permissioned blockchain networks, write production chaincode in Go, and 
 
 ## What I'm Currently Building
 
-- A **Hyperledger Fabric** network with private data collections for multi-party data sharing
-- Exploring **Fabric Peer chaincode** external builders for Go chaincode hot-reload
-- Contributing to open-source Fabric tooling and documentation
+-
 
 ---
 
